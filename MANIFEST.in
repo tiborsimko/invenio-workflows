@@ -4,6 +4,7 @@ include *.txt
 include .editorconfig .dockerignore .travis.yml .kwalitee.yml .travis.invenio.cfg
 include LICENSE
 include babel.ini
+include docs/requirements.txt
 include pytest.ini
 include tox.ini
 recursive-include docs *.bat

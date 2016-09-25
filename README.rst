@@ -46,4 +46,4 @@ Invenio module for running determined set of tasks.
 *This is an experimental development preview release.*
 
 * Free software: GPLv2 license
-* Documentation: https://invenio-workflows.readthedocs.org.
+* Documentation: https://invenio-workflows.readthedocs.io.

@@ -55,7 +55,7 @@ Installation
 Documentation
 -------------
 
-   http://invenio-workflows.readthedocs.org/en/v0.1.2
+   http://invenio-workflows.readthedocs.io/en/v0.1.2
 
 Happy hacking and thanks for flying Invenio-Workflows.
 
